@@ -139,7 +139,7 @@ gunicorn
 
 ## 🧑‍💻 Autor
 
-**Tu Nombre**  
+**Jazmin Rodriguez FREAKJAZZ**  
 🔗 [GitHub](https://github.com/FreakJazz)
 
 ---
