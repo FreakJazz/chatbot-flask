@@ -33,11 +33,9 @@ if not model_to_use:
 model = ai.GenerativeModel(model_to_use)
 chat = model.start_chat()
 
-# --- Flask Setup ---
 app = Flask(__name__)
 DATABASE = 'chat.db'
 
-# --- Database Helper Functions ---
 def init_db():
     conn = sqlite3.connect(DATABASE)
     c = conn.cursor()
